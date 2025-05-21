@@ -1,2 +1,0 @@
-# bhargav-portfolio
-Portfolio
